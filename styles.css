@@ -118,22 +118,4 @@ h3 {
     }
 
 
-    @media screen and (min-width:600px) {
-        #map {
-            height: 60vh;
-        }
-
-        .search {
-            height: 20vh;
-        }
-    }
-
-    @media screen and (min-width:1024px) {
-        .search {
-            height: 40vh;
-        }
-    }
-
-
-
 }
